@@ -4,3 +4,7 @@
 >git checkout -b name -создание и переход на другую ветку>git checkout -b name -создание и переход на другую ветку
 >git checkout -b name -создание и переход на другую ветку>git checkout -b name -создание и переход на другую ветку
 >git checkout -b name -создание и переход на другую ветку>git checkout -b name -создание и переход на другую ветку
+goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
+goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
+goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
+goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
