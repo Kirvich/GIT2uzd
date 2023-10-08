@@ -1,3 +1,3 @@
 #git checkout
 **git branch**
->git merge - слияния 
+>git checkout -b name -создание и переход на другую ветку
