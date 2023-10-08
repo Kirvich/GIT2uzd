@@ -12,15 +12,9 @@ goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
 goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
 goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
 goodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbyegoodbye
-git branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branchgit branch
-
-
-
-git branchgit branchgit branchgit branchgit branchgit branch
-git branchgit branchgit branchgit branch
-
-
-
-
-123
-git branchgit branch
+создание и переход на другую веткусоздание и переход на другую веткусоздание и переход на другую ветку
+создание и переход на другую веткусоздание и переход на другую веткусоздание и переход на другую веткусоздание и переход на другую веткусоздание и переход на другую веткусоздание и переход на другую веткусоздание и переход на другую ветку
+321321
+321321
+создание и переход на другую ветку
+321321321321321321
