@@ -24,3 +24,4 @@ test1test1test1test1test1test1test1test1test1test1test1test1
 test1test1test1test1test1test1test1test1test1test1test1test1test1
 1111111
 test1test1test1test1
+git push - внести изменения на удаленный репозиторий
